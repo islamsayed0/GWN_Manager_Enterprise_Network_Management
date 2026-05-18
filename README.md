@@ -33,7 +33,7 @@ bash -c "$(curl -fsSL https://raw.githubusercontent.com/community-scripts/Proxmo
 
 ## 📸 Screenshots
 Here are some visual captures from the deployment and configuration process:
-![Screenshot 1](https://raw.githubusercontent.com/islamsayed0/gwn/main/Screenshot%202026-05-18%20at%2011.00.19%20AM.png)
+![Screenshot 1](https://github.com/islamsayed0/gwn/blob/main/Screenshot%202026-05-18%20at%2011.00.19%E2%80%AFAM.png?raw=true)
 ![Screenshot 2](https://raw.githubusercontent.com/islamsayed0/gwn/main/Screenshot%202026-05-18%20at%2011.00.53%20AM.png)
 ![Screenshot 3](https://raw.githubusercontent.com/islamsayed0/gwn/main/Screenshot%202026-05-18%20at%2011.01.01%20AM.png)
 ![Screenshot 4](https://raw.githubusercontent.com/islamsayed0/gwn/main/Screenshot%202026-05-18%20at%2011.01.13%20AM.png)
